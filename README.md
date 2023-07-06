@@ -2,7 +2,7 @@ Olá! Eu sou o Felipe
 
 
 
-- 🌱 Estudando C#
+- 🌱 Aprendendo mais C#
 - 📫 contate-me no email: felipefernandes1324@gmail.com
 - 😄 Pronouns: ele/dele
 
