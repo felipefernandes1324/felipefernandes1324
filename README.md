@@ -2,7 +2,6 @@ Olá! Eu sou o Felipe
 
 
 
-- 🔭 Atualmente em busca da primeira vaga de desenvolvedor
 - 🌱 Estudando C#
 - 📫 contate-me no email: felipefernandes1324@gmail.com
 - 😄 Pronouns: ele/dele
